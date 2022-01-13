@@ -1,4 +1,4 @@
-"nome","regiao","freq","rank","sexo"
+"name","region","freq","rank","gender"
 "JOSE",0,5732508,1,"M"
 "JOAO",0,2971935,2,"M"
 "ANTONIO",0,2567494,3,"M"
