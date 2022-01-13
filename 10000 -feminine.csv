@@ -1,4 +1,4 @@
-"nome","regiao","freq","rank","sexo"
+"name","region","freq","rank","gender"
 "MARIA",0,11694738,1,"F"
 "ANA",0,3079729,2,"F"
 "FRANCISCA",0,721637,3,"F"
